@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Versymn
+- 👀 I’m interested in Python, Java and Node.
+- 🌱 I’m currently learning Java and Node.
+- 📫 Email me at watstaytay@gmail.com
